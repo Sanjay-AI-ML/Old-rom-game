@@ -1,5 +1,7 @@
 # 🎮 Retro ROM-Style Adventure Game (Python)
 
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/design-oop-blue) ![JSON](https://img.shields.io/badge/storage-json-blue) ![Save⁄Load](https://img.shields.io/badge/persistence-save--load-green)
+
 A text-based adventure game inspired by classic Pokémon Fire Red, built entirely in Python using Object-Oriented Programming (OOP). Explore a randomized world, battle enemies, manage inventory, and upgrade your character in this engaging retro RPG prototype.
 
 ---
